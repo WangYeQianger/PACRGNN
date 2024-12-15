@@ -1,6 +1,9 @@
 # PACRGNN
 
 ## Welcome to PACRGNN
+
+## We will open source our data and code after our article is accepted
+
 ## Citation 
 
 If you use our tool and code, please cite our article and mark the project to show your support，thank you!
